@@ -1,0 +1,10 @@
+.env
+.idea/
+__pycache__/
+*.pyc
+*.pt
+*.bin
+*.safetensors
+bert-base-chinese/
+swanlog/
+D:/swanlog/
